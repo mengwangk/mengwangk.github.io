@@ -53,6 +53,5 @@ read any of the other things, such as
 - [Testing your site locally](pages/local_test.html)
 - [Resources](pages/resources.html)
 
-
 ---
 
