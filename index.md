@@ -1,6 +1,5 @@
 ---
 layout: page
-title: From Ideas to Action
 description: Main page
 ---
 
